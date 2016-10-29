@@ -43629,9 +43629,9 @@ angular.module('mm.addons.mod_quiz')
 angular.module('mm.core')
 
 .constant('mmCoreConfigConstants', {
-    "app_id" : "com.moodle.moodlemobile",
+    "app_id" : "edu.takhmor.mobile",
     "appname": "Moodle Mobile",
-    "versioncode" : "2015",
+    "versioncode" : "20150",
     "versionname" : "3.1.3",
     "cache_expiration_time" : 300000,
     "default_lang" : "en",
@@ -43639,7 +43639,7 @@ angular.module('mm.core')
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
     "demo_sites": {"student": {"url": "http://school.demo.moodle.net", "username": "student", "password": "moodle"}, "teacher": {"url": "http://school.demo.moodle.net", "username": "teacher", "password": "moodle"}, "cva": {"url": "http://mm.cvaconsulting.com/moodle", "username": "student", "password": "student"}},
-    "gcmpn": "694767596569",
+    "gcmpn": "718614473663",
     "customurlscheme": "moodlemobile"
 }
 );
