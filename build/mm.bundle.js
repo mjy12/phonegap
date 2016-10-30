@@ -43639,6 +43639,7 @@ angular.module('mm.core')
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
     "site_url":"http://takhmor.edu.jo",
+	"siteurl":"http://takhmor.edu.jo",
     "gcmpn": "718614473663",
     "customurlscheme": "moodlemobile"
 }
