@@ -5,14 +5,17 @@
         id        = "edu.takhmor.mobile"
         versionCode = "20150"
         version   = "3.1.3">
-    <name>Moodle Mobile</name>
+    <name>روضة ومدرسة تخمر الاسلامية</name>
 
     <description>
-        Moodle Mobile official app
+        روضة ومدرسة تخمر الاسلامية
+مدرسة خاصة ـاسست سنة 2001م
+عمان-شارع مادبا-أم زعرورة
+هاتف 4122027
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Pty Ltd
+    <author href="http://edu-technical.com" email="mjy1@hotmail.com">
+Educatiion Technical 
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
